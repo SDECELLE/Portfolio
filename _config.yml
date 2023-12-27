@@ -1,4 +1,4 @@
 title: DECELLE Simon
 #Logo /asset/img 
 #Description: Text sous l'image 
-theme: jeykll-theme-minimal_
+remote_theme: pages-themes/minimal@v0.2.0
